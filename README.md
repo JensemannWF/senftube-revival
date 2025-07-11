@@ -1,5 +1,5 @@
 # 🟡 Senftube Revival – Die Kampagne mit Geschmack
-
+![Senftube Revival Logo](senftube-revival-logo.png)
 > **"Werde ein echter Senftuber – würz dein Leben!"**
 
 ## 🌭 Was ist das hier?
